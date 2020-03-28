@@ -9,3 +9,5 @@ CM API document is available at the link: (https://ccslab.github.io/CM), and it 
 # Authors
 Copyright (c) 2009-present Collaborative Computing Systems Lab. (CCSLab.), Konkuk University, Korea
 
+# Modifications
+Konkuk University Distributed System Team Projects
